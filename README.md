@@ -9,8 +9,8 @@ SIEM and Networking
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Home Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Home Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -61,5 +61,5 @@ SIEM and Networking
 </div>
 
 ## Projects
-- Home Detection Lab
+- <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>
 
