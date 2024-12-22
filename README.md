@@ -11,9 +11,9 @@ SIEM and PenTesting
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation          | |
+| Incident Response Planning and Execution      | |
+| Scripting and Automation for Threat Mitigation | |
 
 ## Tools
 <a href="https://www.elastic.co/kibana">
