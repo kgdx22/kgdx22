@@ -42,6 +42,10 @@ SIEM and PenTesting Projects
 <a href="https://ubuntu.com">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Ubuntu" />
 </a>
+<a href="https://www.vmware.com">
+  <img src="https://img.shields.io/badge/-VMware-60778C?&style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+</a>
+
 <a href="https://www.microsoft.com/en-us/windows">
   <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </a>
