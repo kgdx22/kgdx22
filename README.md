@@ -13,7 +13,7 @@ SIEM and PenTesting Projects
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>|
 | Security Automation          | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>|
-| VM Cluster/Network Management | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>|
+| Virtualization/Network Management | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>|
 
 ## Tools
 
