@@ -11,18 +11,11 @@ SIEM and PenTesting Projects
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>|
-| Security Automation          | |
-| Incident Response Planning and Execution      | |
-| Scripting and Automation for Threat Mitigation | |
+| Security Automation          | Security Onion Lab |
+| Incident Response Planning and Execution      | Security Onion Lab |
+| VM Cluster/Network Management | Security Onion Lab |
 
 ## Tools
-<a href="https://www.elastic.co/kibana">
-  <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana" />
-</a>
-
-<a href="https://www.kali.org">
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C87?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" alt="Kali Linux" />
-</a>
 
 <a href="https://www.elastic.co/elasticsearch">
   <img src="https://img.shields.io/badge/-Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white" alt="Elasticsearch" />
@@ -35,6 +28,26 @@ SIEM and PenTesting Projects
 <a href="https://www.elastic.co/fleet">
   <img src="https://img.shields.io/badge/-Elastic%20Fleet-005571?&style=for-the-badge&logo=Elastic&logoColor=white" alt="Elastic Fleet" />
 </a>
+
+<a href="https://www.kali.org">
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C87?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" alt="Kali Linux" />
+</a>
+
+<a href="https://www.elastic.co/kibana">
+  <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana" />
+</a>
+<a href="https://www.pfsense.org">
+  <img src="https://img.shields.io/badge/-pfSense-1e3c48?&style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+</a>
+<a href="https://ubuntu.com">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Ubuntu" />
+</a>
+<a href="https://www.microsoft.com/en-us/windows">
+  <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</a>
+
+
+
 
 ### Network
 <div>
@@ -50,16 +63,22 @@ SIEM and PenTesting Projects
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+<a href="https://securityonion.net">
+  <a href="https://securityonion.net">
+  <img src="https://img.shields.io/badge/-Security%20Onion-8a2e4d?&style=for-the-badge&logo=securityonion&logoColor=white" alt="Security Onion" />
+</a>
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-006D8E?&style=for-the-badge&logo=Cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CySA%2B-FF7F00?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
 - <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>
+- Security Onion Lab
 
