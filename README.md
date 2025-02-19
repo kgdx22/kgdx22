@@ -9,11 +9,13 @@ SIEM and PenTesting Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>|
+| KQL Querying for Security Events              | <a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>|
+| Log Enrichment and Threat Intelligence        | <a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>/<a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>|
+| Network Traffic Monitoring and Threat Detection | <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>/<a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>|
 | Security Automation          | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>|
-| Virtualization/Network Management | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>|
+| Virtualization/Network Management | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>/<a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>|
 
 ## Tools
 
