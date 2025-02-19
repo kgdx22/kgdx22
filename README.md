@@ -34,16 +34,21 @@ SIEM and PenTesting Projects
 <a href="https://www.kali.org">
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C87?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" alt="Kali Linux" />
 </a>
-
 <a href="https://www.elastic.co/kibana">
   <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana" />
 </a>
+<a href="https://azure.microsoft.com/en-us/">
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+
 <a href="https://www.pfsense.org">
-  <img src="https://img.shields.io/badge/-pfSense-1e3c48?&style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+ <img src="https://img.shields.io/badge/-pfSense-1e3c48?&style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
 </a>
 <a href="https://ubuntu.com">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Ubuntu" />
 </a>
+<a href="https://www.virtualbox.org/">
+<img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+
 <a href="https://www.vmware.com">
   <img src="https://img.shields.io/badge/-VMware-60778C?&style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
 </a>
@@ -70,6 +75,8 @@ SIEM and PenTesting Projects
 ### SIEM
 <div>
 <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+<a href="https://azure.microsoft.com/en-us/">
+<img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 <a href="https://securityonion.net">
   <a href="https://securityonion.net">
   <img src="https://img.shields.io/badge/-Security%20Onion-8a2e4d?&style=for-the-badge&logo=securityonion&logoColor=white" alt="Security Onion" />
@@ -85,6 +92,7 @@ SIEM and PenTesting Projects
 </div>
 
 ## Projects
+- <a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>
 - <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>
 - <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>
 
