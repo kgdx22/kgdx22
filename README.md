@@ -17,7 +17,14 @@ SIEM and PenTesting Projects
 | Incident Response Planning and Execution      | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>|
 | Virtualization/Network Management | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>/<a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>|
 
-## Tools
+## AZURE LABS
+##    * Service Endpoints/Storage
+##      * Data Collection Rules
+##        * JIT Access
+##          * Sentinel
+
+  
+   
 
 <a href="https://www.elastic.co/elasticsearch">
   <img src="https://img.shields.io/badge/-Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white" alt="Elasticsearch" />
