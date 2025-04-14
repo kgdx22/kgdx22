@@ -17,11 +17,11 @@ SIEM and PenTesting Projects
 | Incident Response Planning and Execution      | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>|
 | Virtualization/Network Management | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>/<a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>|
 
-## AZURE LABS
+## AZURE LAB
 ##    * Service Endpoints/Storage
 ##      * Data Collection Rules
 ##        * JIT Access
-##          * Sentinel
+##          * Sentinel - Playbook
 
   
    
