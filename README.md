@@ -18,10 +18,10 @@ SIEM and PenTesting Projects
 | Virtualization/Network Management | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>/<a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>|
 
 ## AZURE LAB
-##    * Service Endpoints/Storage
-##      * Data Collection Rules
-##        * JIT Access
-##          * Sentinel - Playbook
+##    <a href="https://github.com/kgdx22/Azure-Storage">Service Endpoints/Storage</a>
+##    <a href="https://github.com/kgdx22/DCR-LAW">Data Collection Rules</a>
+##    <a href="https://github.com/kgdx22/Just-in-Time">JIT Access</a>
+##    <a href="https://github.com/kgdx22/Azure-Sentinel01">Sentinel - Playbook<a/>
 
   
    
