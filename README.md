@@ -20,7 +20,9 @@ SIEM and PenTesting Projects
 ## AZURE LAB
 ##    <a href="https://github.com/kgdx22/Azure-Storage">Service Endpoints/Storage</a>
 ##    <a href="https://github.com/kgdx22/DCR-LAW">Data Collection Rules</a>
+##    <a href="https://github.com/kgdx22/DB-Encrypt-/tree/main">Database Encryption<a/>
 ##    <a href="https://github.com/kgdx22/Just-in-Time">JIT Access</a>
+##    <a href="https://github.com/kgdx22/AZ-Key-Vault/tree/main">Key Vault<a/>
 ##    <a href="https://github.com/kgdx22/Azure-Sentinel01">Sentinel - Playbook<a/>
 
   
