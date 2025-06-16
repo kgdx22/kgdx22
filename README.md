@@ -1,11 +1,25 @@
 # KENGERA DANIEL
 <a href="https://www.linkedin.com/in/kengera-daniel/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-SIEM and PenTesting Projects
+## AWS LABS
+
+<div align="center">
+  <a href="https://github.com/kgdx22/AWS-DFIR-LAB">
+    <img src="https://github.com/kgdx22/AWS-DFIR-LAB/blob/main/aws32DFIR.png?raw=true" alt="AWS DFIR Lab" width="500"/>
+  </a>
+  <div><em>Incident Response Simulation</em></div>
+</div>
 
 
 
-## Skills
+## AZURE LABS
+##    <a href="https://github.com/kgdx22/Azure-Storage">Service Endpoints/Storage</a>
+##    <a href="https://github.com/kgdx22/DCR-LAW">Data Collection Rules</a>
+##    <a href="https://github.com/kgdx22/DB-Encrypt-/tree/main">Database Encryption<a/>
+##    <a href="https://github.com/kgdx22/Just-in-Time">JIT Access</a>
+##    <a href="https://github.com/kgdx22/AZ-Key-Vault/tree/main">Key Vault<a/>
+##    <a href="https://github.com/kgdx22/Azure-Sentinel01">Sentinel - Playbook<a/>
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -16,15 +30,6 @@ SIEM and PenTesting Projects
 | Security Automation          | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>|
 | Virtualization/Network Management | <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>/<a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>|
-
-## AZURE LAB
-##    <a href="https://github.com/kgdx22/Azure-Storage">Service Endpoints/Storage</a>
-##    <a href="https://github.com/kgdx22/DCR-LAW">Data Collection Rules</a>
-##    <a href="https://github.com/kgdx22/DB-Encrypt-/tree/main">Database Encryption<a/>
-##    <a href="https://github.com/kgdx22/Just-in-Time">JIT Access</a>
-##    <a href="https://github.com/kgdx22/AZ-Key-Vault/tree/main">Key Vault<a/>
-##    <a href="https://github.com/kgdx22/Azure-Sentinel01">Sentinel - Playbook<a/>
-
   
    
 ### Tools
