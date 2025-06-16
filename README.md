@@ -7,20 +7,21 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/kgdx22/AWS-DFIR-LAB">
-          <img src="https://github.com/kgdx22/AWS-DFIR-LAB/blob/main/aws32DFIR.png?raw=true" alt="AWS DFIR Lab" width="300"/>
-        </a>
-        <div><em>Incident Response Simulation</em></div> 
-      </td>
-      <td align="center">
         <a href="https://github.com/kgdx22/AWS-Velo-Setup-">
-          <img src="https://github.com/kgdx22/AWS-Velo-Setup-/blob/main/awssiftws.png?raw=true" alt="Cyber Range Setup" width="300"/>
+          <img src="https://github.com/kgdx22/AWS-Velo-Setup-/blob/main/awssiftws.png?raw=true" alt="Cyber Range Setup" width="350"/>
         </a>
         <div><em>Cyber Range Setup</em></div>
+      </td>
+      <td align="center">
+        <a href="https://github.com/kgdx22/AWS-DFIR-LAB">
+          <img src="https://github.com/kgdx22/AWS-DFIR-LAB/blob/main/aws32DFIR.png?raw=true" alt="Incident Response Simulation" width="350"/>
+        </a>
+        <div><em>Incident Response Simulation</em></div>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
