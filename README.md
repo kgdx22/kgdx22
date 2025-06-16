@@ -10,7 +10,7 @@
         <a href="https://github.com/kgdx22/AWS-Velo-Setup-">
           <img src="https://github.com/kgdx22/AWS-Velo-Setup-/blob/main/awssiftws.png?raw=true" alt="Cyber Range Setup" width="350"/>
         </a>
-        <div><em>Cyber Range Setup</em></div>
+        <div><em>DFIR Lab Setup</em></div>
       </td>
       <td align="center">
         <a href="https://github.com/kgdx22/AWS-DFIR-LAB">
