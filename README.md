@@ -8,15 +8,15 @@
     <tr>
       <td align="center">
         <a href="https://github.com/kgdx22/AWS-Velo-Setup-/blob/main/README.md">
-          <img src="https://github.com/kgdx22/AWS-Velo-Setup-/blob/main/awssiftws.png?raw=true" alt="Cyber Range Setup" width="350"/>
+          <img src="https://github.com/kgdx22/AWS-Velo-Setup-/blob/main/awssiftws.png?raw=true" alt="Cyber Range Setup" width="340"/>
         </a>
         <div><em>DFIR Lab Setup</em></div>
       </td>
       <td align="center">
         <a href="https://github.com/kgdx22/AWS-CRED-DUMP/blob/main/README.md">
-          <img src="https://github.com/kgdx22/AWS-CRED-DUMP/blob/main/velrsu4.png?raw=true" alt="Incident Response Simulation" width="350"/>
+          <img src="https://github.com/kgdx22/AWS-CRED-DUMP/blob/main/velrsu4.png?raw=true" alt="Incident Response Sim" width="350"/>
         </a>
-        <div><em>Incident Response Simulation</em></div>
+        <div><em>Incident Response - Credential Dumping</em></div>
       </td>
     </tr>
   </table>
