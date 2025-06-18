@@ -14,7 +14,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/kgdx22/AWS-CRED-DUMP/blob/main/README.md">
-          <img src="https://github.com/kgdx22/AWS-CRED-DUMP/blob/main/velrsu4.png?raw=true" alt="Incident Response Sim" width="350"/>
+          <img src="https://github.com/kgdx22/AWS-CRED-DUMP/blob/main/velrsu4.png?raw=true" alt="Incident Response Sim" width="320"/>
         </a>
         <div><em>Incident Response - Credential Dumping</em></div>
       </td>
