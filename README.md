@@ -46,6 +46,10 @@
   
    
 ### Tools
+
+<a href="https://aws.amazon.com/">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+</a>
 <a href="https://www.elastic.co/elasticsearch">
   <img src="https://img.shields.io/badge/-Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white" alt="Elasticsearch" />
 </a>
@@ -115,12 +119,16 @@
 
 ## Certifications
 <div>
+  <img src="https://img.shields.io/badge/-AZ--500-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-006D8E?&style=for-the-badge&logo=Cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CISSP-003366?style=for-the-badge&logo=ISC2&logoColor=white" />
   <img src="https://img.shields.io/badge/-CySA%2B-FF7F00?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
+- <a href="https://github.com/kgdx22/AWS-CRED-DUMP/blob/main">Credential Dumping Lab</a>
+<a href="https://github.com/kgdx22/AWS-Velo-Setup-/tree/main">DFIR Lab Setup</a>
 - <a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>
 - <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>
 - <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>
