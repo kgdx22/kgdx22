@@ -128,7 +128,7 @@
 
 ## Projects
 - <a href="https://github.com/kgdx22/AWS-CRED-DUMP/blob/main">Credential Dumping Lab</a>
-<a href="https://github.com/kgdx22/AWS-Velo-Setup-/tree/main">DFIR Lab Setup</a>
+- <a href="https://github.com/kgdx22/AWS-Velo-Setup-/tree/main">DFIR Lab Setup</a>
 - <a href="https://github.com/kgdx22/Sentinel-Honeypot-Lab/tree/main">Sentinel Honeypot Lab</a>
 - <a href="https://github.com/kgdx22/Home-Detection-Lab/tree/main">Home Detection Lab</a>
 - <a href="https://github.com/kgdx22/Security-Onion-Lab">Security Onion Lab</a>
