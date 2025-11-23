@@ -26,6 +26,7 @@
 
 
 ## AZURE LABS
+## MY TENANT                       
 ##    <a href="https://github.com/kgdx22/Azure-Storage">Service Endpoints/Storage</a>
 ##    <a href="https://github.com/kgdx22/DCR-LAW">Data Collection Rules</a>
 ##    <a href="https://github.com/kgdx22/DB-Encrypt-/tree/main">Database Encryption<a/>
