@@ -120,7 +120,7 @@
 
 ## Certifications
 <div>
-  <img src="https://img.shields.io/badge/-AZ--500-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SC--300-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA-006D8E?&style=for-the-badge&logo=Cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/-CISSP-003366?style=for-the-badge&logo=ISC2&logoColor=white" />
   <img src="https://img.shields.io/badge/-CySA%2B-FF7F00?&style=for-the-badge&logo=CompTIA&logoColor=white" />
