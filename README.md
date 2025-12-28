@@ -27,8 +27,8 @@
 
 ## AZURE LABS
 ##    <a href="https://github.com/kgdx22/MYTenant">MY TENANT - Identity & Cloud Security</a>      
-###    <a href="https://github.com/kgdx22/AutoOnboard">Onboarding Automation</a>
----
+###            👉 <a href="https://github.com/kgdx22/AutoOnboard">Onboarding Automation</a>
+
 ##    <a href="https://github.com/kgdx22/Azure-Storage">Service Endpoints/Storage</a>
 ##    <a href="https://github.com/kgdx22/DCR-LAW">Data Collection Rules</a>
 ##    <a href="https://github.com/kgdx22/DB-Encrypt-/tree/main">Database Encryption<a/>
